@@ -1,4 +1,5 @@
 # SpringBootPractice
 
-First: Try restful api
-Config port:9090 
+First: Try Restful API
+
+Port:9090 
